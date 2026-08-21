@@ -1,2 +1,2 @@
-# s02
-práctica de la semana 2 del curso de css avanzado
+# repo-css-avanzado
+Repositorio con los ejercicios y ejemplos del curso de CSS Avanzado
